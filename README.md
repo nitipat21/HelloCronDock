@@ -28,13 +28,13 @@
    Navigate to the project directory and build the Docker image:
 
    ```bash
-   docker build -t HelloCronDock .
+   docker build -t hellocrondock .
    ```
 
 2. **Running the Docker Container**:
    Start the container with the following command:
    ```bash
-   docker run -d HelloCronDock
+   docker run -d hellocrondock
    ```
 
 ## Cron Job Configuration
